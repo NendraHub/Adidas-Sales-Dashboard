@@ -2,6 +2,7 @@
 ## Preview
 
 ![Dashboard Preview](Image/Dashboard%204.png)
+[Live Dashboard](https://public.tableau.com/app/profile/danendra.sajana/viz/AdidasSaleDashboard_17357788034040/Dashboard4)
 
 ## Introduction
 This project aims to analyze Adidas product sales data in the United States (USA) region. The dataset used, Adidas US Sales Dataset, was sourced from Kaggle and published by Heemali Chaudhari in 2023. The analysis produced four key insights:
@@ -10,7 +11,8 @@ This project aims to analyze Adidas product sales data in the United States (USA
 - Sales by Sales Method
 - Retail Sales
 ## Dataset Overview
-The dataset contains 9,648 rows with 13 main columns, as follows:
+The [dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
+ contains 9,648 rows with 13 main columns, as follows:
 - **Retailer**: Name of the retailer
 - **Retailer ID**: Unique identifier for each retailer
 - **Invoice Date**: Date of the sales transaction
