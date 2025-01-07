@@ -9,7 +9,7 @@ This project aims to analyze Adidas product sales data in the United States (USA
 - Monthly Sales
 - Sales by State
 - Sales by Sales Method
-- Retail Sales
+- Sales by Retail
 ## Dataset Overview
 The [dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
  contains 9,648 rows with 13 main columns, as follows:
