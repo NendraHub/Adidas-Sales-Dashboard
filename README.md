@@ -1,6 +1,7 @@
 # Adidas Sales Dashboard
 ## Preview
-![Dashboard Preview](assets/images/dashboard-preview.png)
+
+![Dashboard Preview](Image/Dashboard%204.png)
 
 ## Introduction
 This project aims to analyze Adidas product sales data in the United States (USA) region. The dataset used, Adidas US Sales Dataset, was sourced from Kaggle and published by Heemali Chaudhari in 2023. The analysis produced four key insights:
